@@ -5,7 +5,7 @@ Foto: Rodrigo Leal
 
 ## Introdução
 
-A COVID-19 é uma doença infeciosa causada pelo coronavírus da síndrome respiratória aguda grave 2 ou SARS-CoV-2. Cerca de 80% das infeções pelo SARS-CoV-2 confirmadas têm sintomas ligeiros de COVID-19 ou são assintomáticos, e a maioria recupera sem sequelas. No entanto, 15% das infeções resultam em COVID-19 severa com necessidade de oxigénio e 5% são infeções muito graves que necessitam de ventilação assistida em **Unidades de Terapia Intensiva (UTI)**. Os casos mais graves podem evoluir para pneumonia grave com insuficiência respiratória grave, septicémia, falência de vários órgãos e morte. Entre os sinais de agravamento da doença estão a falta de ar, dor ou pressão no peito, dedos de tom azul ou perturbações na fala e no movimento. O agravamento pode ser súbito, ocorre geralmente durante a segunda semana e requer atenção médica urgente.
+A COVID-19 é uma doença infeciosa causada pelo coronavírus da síndrome respiratória aguda grave 2 ou SARS-CoV-2. Cerca de 80% das infeções pelo SARS-CoV-2 confirmadas têm sintomas ligeiros de COVID-19 ou são assintomáticos, e a maioria recupera sem sequelas. No entanto, 15% das infeções resultam em COVID-19 severa com necessidade de oxigénio e 5% são infeções muito graves que necessitam de ventilação assistida em **Unidades de Terapia Intensiva (UTI)**. Os casos mais graves podem evoluir para pneumonia grave com insuficiência respiratória grave, septicémia, falência múltipla dos órgãos e morte. Entre os sinais de agravamento da doença estão a falta de ar, dor ou pressão no peito, dedos de tom azul ou perturbações na fala e no movimento. O agravamento pode ser súbito, ocorre geralmente durante a segunda semana e requer atenção médica urgente.
 
 As Unidades de Terapia Intensiva têm sido uma ferramenta de suma importância na recuperação de pacientes por covid-19. Sabendo que existe uma população de risco, com maior propensão a necessidade de suporte ventilatório, um grande desafio é a gestão dos leitos de UTI disponíveis e a decisão de quais pacientes devem ser encaminhados para esse tratamento em determinado momento.
 
@@ -18,7 +18,7 @@ Diante deste cenário complexo, a tecnologia é uma importante aliada para apoia
 
 ## Objetivo
 
-Com este projeto vamos entender as informações anonimizadas fornecidas pelo Hospital Sírio-Libanês sobre os sinais vitais dos pacientes e a necessidade ou não sua internação em UTI. 
+Com este projeto vamos entender as informações anonimizadas fornecidas pelo Hospital Sírio-Libanês sobre os sinais vitais dos pacientes e a necessidade ou não de sua internação em UTI. 
 
 Um modelo de Machine Learning deve ser capaz de prever quais pacientes precisarão ser admitidos em UTI, e assim definir qual a necessidade de leitos de UTI do hospital.
 
