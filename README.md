@@ -16,10 +16,6 @@ Entende se por Unidades de Terapia Intensiva ou UTI os locais dentro dos hospita
 
 Diante deste cenário complexo, a tecnologia é uma importante aliada para apoiar os gestores de Saúde na administração e melhor gestão do uso das UTIs. 
 
-No trabalho desenvolvido nesse notebook, procuraremos entender os dados disponíveis dos sinais vitais de diversos pacientes, assim como a necessidade de internação em UTI (ou não) de cada um desses pacientes.
-
-Através desses dados, será gerado um modelo de Machine Learning capaz de prever quais pacientes tem maiores chances de precisar de UTI, ou não.
-
 ## Objetivo
 
 Com este projeto vamos entender as informações anonimizadas fornecidas pelo Hospital Sírio-Libanês sobre os sinais vitais dos pacientes e a necessidade ou não sua internação em UTI. 
