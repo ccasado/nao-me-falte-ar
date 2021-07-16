@@ -30,14 +30,14 @@ Um modelo de Machine Learning deve ser capaz de prever quais pacientes precisar�
 
 ## Tecnologias utilizadas
 
-[Python: programming language](https://www.python.org/)
-[Pandas: open source data analysis and manipulation tool, built on top of the Python](https://pandas.pydata.org/)
-[Seaborn: statistical data visualization](https://seaborn.pydata.org/)
-[Matplotlib: Visualization with Python](https://matplotlib.org/)
-[Numpy: The fundamental package for scientific computing with Python](https://numpy.org/)
+* [Python: programming language](https://www.python.org/)
+* [Pandas: open source data analysis and manipulation tool, built on top of the Python](https://pandas.pydata.org/)
+* [Seaborn: statistical data visualization](https://seaborn.pydata.org/)
+* [Matplotlib: Visualization with Python](https://matplotlib.org/)
+* [Numpy: The fundamental package for scientific computing with Python](https://numpy.org/)
 
 ## Referências
 
-[Kaggle - COVID-19 Clinical Data to assess diagnosis, Sírio Libanês](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
-[O que é uma UTI, Governo MG](https://coronavirus.saude.mg.gov.br/blog/61-o-que-e-uma-uti)
-[COVID-19, Wikipedia](https://pt.wikipedia.org/wiki/COVID-19)
+* [Kaggle - COVID-19 Clinical Data to assess diagnosis, Sírio Libanês](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
+* [O que é uma UTI, Governo MG](https://coronavirus.saude.mg.gov.br/blog/61-o-que-e-uma-uti)
+* [COVID-19, Wikipedia](https://pt.wikipedia.org/wiki/COVID-19)
