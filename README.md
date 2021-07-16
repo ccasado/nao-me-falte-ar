@@ -1,5 +1,8 @@
 # Não me falte AR
 
+![UTI](https://github.com/ccasado/nao-me-falte-ar/blob/main/imagens/uti.jpg)
+<font size="1">Autor da imagem: Rodrigo Leal</font>
+
 ## Introdução
 
 ## Objetivo
