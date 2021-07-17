@@ -24,6 +24,27 @@ Um modelo de Machine Learning deve ser capaz de prever quais pacientes precisar�
 
 ## Perguntas a serem respondidas
 
+## Dados
+
+Os dados estão agrupados por paciente e agregados em uma janela de ordem cronológica.
+
+Descrição da janela (coluna WINDOW):
+
+* 0-2: de 0 a 2 horas da admissão
+* 2-4: de 2 a 4 horas da admissão
+* 4-6: de 4 a 6 horas da admissão
+* 6-12: de 6 a 12 horas da admissão
+* Above-12: acima de 12 horas da admissão
+
+Os dados foram limpos e escalados por coluna de acordo com o Min Max Scaler para caber entre -1 e 1.
+
+Nesses dados estão presentes as seguintes informações:
+
+* Informações demográficas do paciente - 3 variáveis
+* Doenças pré-existentes agrupadas de pacientes - 9 variáveis
+* Resultados de exame de sangue - 36 variáveis
+* Sinais vitais - 6 variáveis
+
 ## Tecnologias utilizadas
 
 * [Python: programming language](https://www.python.org/)
